@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="gengduo" unicode="&#58881;" d="M512 32.638976m-109.441024 0a53.438 53.438 0 1 0 218.882048 0 53.438 53.438 0 1 0-218.882048 0ZM512 378.238976m-109.441024 0a53.438 53.438 0 1 0 218.882048 0 53.438 53.438 0 1 0-218.882048 0ZM512 735.358976m-109.441024 0a53.438 53.438 0 1 0 218.882048 0 53.438 53.438 0 1 0-218.882048 0Z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="lingdang" unicode="&#58953;" d="M929.3 48.9c-3.5 80.5-43.6 151.9-104.1 197.9V465.1c0 126.1-90.2 232.2-209.5 257.3v5c0 57.5-47.2 104.6-104.9 104.6C453.2 832 406 784.9 406 727.4v-5c-119.2-25.1-209.5-131.2-209.5-257.3v-218.4C136 200.7 95.9 129.3 92.4 48.8h104.1v-0.7h628.7v0.7h104.1v0.1zM488.7-128h26c68.3 0 125 51.5 133.2 117.4H374c8.2-65.9 65-117.4 133.2-117.4h-18.5z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="caidan" unicode="&#58957;" d="M66.56 773.632v-112.128h896V773.632H66.56z m0-448h896V437.248H66.56v-111.616z m0-336.384h896v112.128H66.56v-112.128z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>

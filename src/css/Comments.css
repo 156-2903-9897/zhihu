@@ -1,0 +1,144 @@
+.Comments{
+    width: 10.8rem;
+}
+.com{
+    width: 100%;
+}
+.com_top{
+    padding: 0 .6rem;
+    width: 9.6rem;
+    height: 1.7rem;
+    background: #00a2ed;
+    position: fixed;
+    top: 0;
+}
+.com_top_t_l{
+    float: left;
+}
+.com_top_t_l span{
+    display: block;
+    width: .6rem;
+    height: .4rem;
+    color: #fff;
+    line-height: 1.7rem;
+    float: left;
+    margin-right: 1rem;
+}
+.com_top_t_l em{
+    line-height: 1.7rem;
+    font-size: .55rem;
+    color: #fff;
+}
+.com_top_t_r span{
+    display: block;
+    width: .6rem;
+    height: .4rem;
+    color: #fff;
+    line-height: 1.7rem;
+    float: left;
+}
+.com_top_t_r{
+    float: right;
+}
+.com_nei{
+    width: 100%;
+    background: #fff;
+    padding-top:1.7rem; ;
+}
+.com_nei_long{
+    width: 100%;
+}
+.com_nei_long_d4{
+    border-bottom: 0.02rem solid #e5e5e5;
+}
+#lsr{
+    float: right;
+    margin: .6rem .7rem 0 0;
+    width: .6rem;
+    height: .35rem;
+}
+#lsl{
+    float: right;
+    margin: .6rem .7rem 0 0;
+    width: .6rem;
+    height: .35rem;
+    font-size: .6rem;
+}
+.com_nei_long_d1{
+    height: 1.46rem;
+    padding: 0 .5rem;
+    line-height: 1.5rem;
+    font-size: .45rem;
+    background: #fff;
+    display: inline-block;
+    border-bottom: 0.02rem solid #e5e5e5;
+}
+.com_nei_long_d1 span{
+    font-size: .45rem;
+    margin-right: .35rem;
+}
+.com_nei_long_d2{
+    padding: 0 .5rem;
+}
+.com_nei_long_ul{
+    width: 100%;
+}
+.com_nei_long_li{
+    width: 100%;
+    background: #fff;
+    padding: .5rem 0;
+    border-bottom: 0.05rem solid #e5e5e5
+}
+.com_nei_long_li_l{
+    width: 1.5rem;
+    float: left;
+}
+.com_nei_long_li_l img{
+    width: 1.1rem;
+    height: 1.1rem;
+    border-radius: 50%;
+}
+.com_nei_long_li_r{
+    float: right;
+    width: 8.3rem;
+    /*position: absolute;*/
+    /*margin-left: 1.8rem;*/
+}
+.com_nei_long_li_r_p1 {
+    font-size: .5rem;
+    margin-bottom: .4rem;
+    font-weight: bolder;
+}
+.com_nei_long_li_r_p2{
+    font-size: .43rem;
+    line-height: .65rem;
+    margin-bottom: .4rem;
+}
+.com_nei_long_li_r_p3{
+    font-size: .3rem;
+    color: #a4a4a4;
+}
+.com_nei_long_li_t{
+    display: inline-block;
+    float: right;
+}
+.com_nei_long_li_t span{
+    font-size: .4rem;
+    color: #b8b8b8;
+}
+.com_nei_long_li_t em{
+    margin-left: .2rem;
+    color: #b8b8b8;
+    font-size: .36rem;
+}
+.com_nei_long_d3{
+    width: 100%;
+    height: 14.5rem;
+    /*background: red;*/
+}
+.com_nei_long_d3 img{
+    width: 3.5rem;
+    height: 4.5rem;
+    text-align: center;
+    margin: 50% 32%;
+}

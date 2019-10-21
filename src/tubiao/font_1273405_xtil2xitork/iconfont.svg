@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="zhankai" unicode="&#58950;" d="M509.002 231.875a22.334 22.334 0 0 0-15.86 6.562L239.688 491.89a22.421 22.421 0 0 0 31.72 31.676l253.454-253.41a22.421 22.421 0 0 0-15.86-38.282M509.002 231.875a22.334 22.334 0 0 0-15.86 38.238l259.45 259.407a22.421 22.421 0 0 0 31.677-31.676L524.905 238.437a22.508 22.508 0 0 0-15.903-6.562"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="shouqi" unicode="&#58958;" d="M822.4 246.4l-320 318.08c-12.8 12.8-33.28 12.8-45.44 0-1.92-1.28-2.56-2.56-3.2-3.84L135.68 246.4c-12.8-12.8-12.8-32.64 0-45.44 12.8-12.8 33.28-12.8 45.44 0L480 496l296.96-295.04c12.8-12.8 33.28-12.8 45.44 0 12.16 12.8 12.16 33.28 0 45.44z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>

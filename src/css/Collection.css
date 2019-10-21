@@ -1,0 +1,64 @@
+.col{
+    width: 10.8rem;
+}
+.col_gg{
+    width: 100%;
+}
+.col_gg_t{
+    width: 100%;
+    height: 1.6rem;
+    background:#01a3ee;
+}
+.col_gg_t span{
+    display: block;
+    width: .6rem;
+    height: .4rem;
+    color: #fff;
+    line-height: 1.7rem;
+    float: left;
+    font-size: .55rem;
+    margin: 0 1.1rem 0 .6rem;
+}
+.col_gg_t em{
+    line-height: 1.7rem;
+    color: #fff;
+    font-size: .55rem;
+}
+.col_gg_b{
+    width: 100%;
+}
+.col_gg_b_f{
+    padding:0 .3rem;
+}
+.col_gg_b_f ul{
+    width: 10.2rem;
+}
+.col_gg_b_f li{
+    width: 10.2rem;
+    height: 3rem;
+    margin: .25rem auto;
+    background: #fff;
+    /*background: red;*/
+    border-radius: .2rem;
+}
+.li_l{
+    width: 6.5rem;
+    float: left;
+    padding: 0 .2rem;
+    font-size: .53rem;
+    line-height: .7rem;
+    color: #040404;
+    font-weight: bolder;
+    margin: .5rem 0;
+}
+.li_r{
+    width: 2.5rem;
+    height: 2.15rem;
+    /*background: red;*/
+    float: right;
+    margin: .4rem .4rem 0 0;
+}
+.li_r img{
+    width: 2.5rem;
+    height: 2.15rem;
+}

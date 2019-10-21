@@ -1,0 +1,130 @@
+.del{
+    width: 10.8rem;
+}
+.del_{
+    width: 100%;
+}
+.del_t{
+    padding: 0 .6rem;
+    width: 9.6rem;
+    height: 1.7rem;
+    background: #00a2ed;
+}
+.del_t_l span{
+    display: block;
+    width: .6rem;
+    height: .4rem;
+    color: #fff;
+    line-height: 1.7rem;
+    float: left;
+    margin-right: 1rem;
+}
+.del_t_r span{
+    display: block;
+    width: .6rem;
+    height: .4rem;
+    color: #fff;
+    line-height: 1.7rem;
+    float: left;
+    margin-right: 1rem;
+}
+.del_t_l{
+    float: left;
+}
+.del_t_r{
+    float: right;
+}
+.del_t_r_em{
+    font-size: .45rem;
+    margin-left: .25rem;
+}
+.del_b{
+    background: #f8f8f8;
+}
+.question{
+    background: #f3f3f3;
+}
+.view-more{
+    background: #fff;
+}
+.headline{
+    height: 6rem;
+}
+.img-place-holder{
+    position: absolute;
+}
+.img-place-holder img{
+    width: 100%;
+    height: 6rem;
+}
+.img-place-holder p{
+    position: relative;
+    bottom: 2.5rem;
+    margin: 0;
+    font-size: .55rem;
+    padding: 0 .5rem;
+    color: #fff;
+    line-height: .7rem;
+}
+#share{
+    width: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+    background:rgba(0,0,0,0.4) none repeat scroll !important;
+    background: #333;
+}
+.share_d{
+    width: 7.9rem;
+    height: 10.8rem;
+    background: #fff;
+    margin: 0 auto;
+    margin-top: 50%;
+}
+.share_d_hw{
+    width: 100%;
+    height: 1.8rem;
+    font-size: .6rem;
+    line-height: 1.8rem;
+    font-weight: bolder;
+    padding: 0 .7rem;
+}
+.share_d_ul{
+    padding: 0;
+}
+.share_d_ul li{
+    display: inline-block;
+    margin-left: .7rem;
+    text-align: center;
+}
+.share_d_ul span{
+    width: 1.6rem;
+    height: 1.6rem;
+    display: inline-block;
+    font-size: 1.55rem;
+}
+.share_d_ul li p{
+    margin:.4rem 0 !important;
+    font-size: .42rem;
+}
+.xin{
+    color: #f13f19;
+}
+.wei{
+    color: #60c84f;
+}
+.you{
+    color: #72cf29;
+}
+.yin{
+    color: #5ab540;
+}
+.dao{
+    color: #51a6dc;
+}
+.qq{
+    color: #7ea1c7;
+}
+.duo{
+    color: #7f7f7f;
+}
